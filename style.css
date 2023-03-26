@@ -161,6 +161,9 @@ h3 {
     display: block;
 }
 
+    .main {
+    display: inline-block;
+}
 
 }
 
